@@ -2,7 +2,7 @@
 import random
 
 #NumGuess por el usuario, la máquina genera el número con un random, entre el 1 y el número establecido en x.
-#En este caso establecemos que x sea 10 en la llamada del método.
+#En este caso establecemos que x sea 10 en la llamada de la función.
 def num_guess(x):
 
     r_n = random.randint(1, x)
