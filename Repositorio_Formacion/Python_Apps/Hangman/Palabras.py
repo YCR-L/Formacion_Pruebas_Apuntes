@@ -1,1 +1,0 @@
-palabras = ["uno", "azul", "dos", "magenta", "tres", "amarillo", "prueba", "programa", "serpiente", "yago", "gracias"]
