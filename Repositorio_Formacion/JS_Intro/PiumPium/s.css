@@ -1,0 +1,45 @@
+.boom {
+
+	background-color: red;
+
+}
+
+.disparador {
+
+	background-color: blue;
+
+}
+
+.grid {
+
+    border: solid purple 1px;
+	display: flex;
+	flex-wrap: wrap;
+    height: 300px;
+     /*text-align:center;*/
+	width: 300px;
+
+}
+
+.grid div {
+    
+	height: 20px;
+     /*text-align:center;*/
+    width: 20px;
+
+}
+
+
+.invasor {
+
+	background-color: green;
+	border-radius: 10px;
+
+}
+
+.laser {
+
+	background-color: yellow;
+    
+}
+
