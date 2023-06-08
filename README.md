@@ -15,10 +15,18 @@ Organizado y actualizado de poco en poco. Aquí tienes un QR para su acceso ráp
 + Apuntes de otros intereses de aprendizaje/estudio
 Contenido de cursos y projectos que han parecido interesantes.
 
-# Ver. 1.1 (UPDATE)
+# Ver. 1.1 
 + Python
 
 Se ha decidido por interés en su estudio refrescar y ampliar sobre Python.
 
-Realizando por ende cursos y projectos interesantes y recomendados.
-Se continuará subiendo contenido al respecto, ya que parte se ha perdido.
+# Ver. 1.2 (UPDATE)
++ JS
++ Go
+
+Se ha refrescado JS y se ha profundizado un poco, a su vez para poder revisar y profundizar otras cosas como los 'SF Lightning Component' (que estan basados en JS)
+Se ha investigado, revisado y practicado algo de GO al parecer interesante.
+
+A su vez se han subido proyectos o practicas variadas.
+
+NOTA: Para próximas versiones, solicitaremos un poco de orientación e intentaremos actualizar más frecuentemente para evitar malentendidos y tener seguimiento más veraz (siempre dentro de lo posible).
